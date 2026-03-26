@@ -13,7 +13,7 @@
 As a **Senior Fullstack Engineer** with over 5 years of experience, I specialize in architecting and delivering high-performance, scalable applications across Web, Desktop, and Mobile platforms. My expertise lies in the React ecosystem, TypeScript, and modern backend architectures. I am deeply committed to engineering excellence, clean code practices, and mentoring teams to build user-centric solutions.
 
 - 🌍 Based in **Nairobi, Kenya**
-- 🎓 B.Sc. in Information Technology, Haramaya University
+- 🎓 B.Sc. in Information Technology
 - 🏗️ Focused on Scalable Systems, WebRTC, and Performance Optimization
 - 🤝 Passionate about Open Source and architectural design patterns
 
@@ -86,16 +86,3 @@ As a **Senior Fullstack Engineer** with over 5 years of experience, I specialize
 ### 🤝 Let's Collaborate
 
 I am always looking for opportunities to solve complex engineering challenges or collaborate on innovative projects. If you're building something exciting, let's talk!
-
----
-
-<div align="center">
-  <h2 style="color: #4a3520; font-family: 'Georgia', serif; margin-top: 20px;">Thanks for visiting!</h2>
-  <p style="color: #6d4c41; font-family: 'Arial', sans-serif; font-size: 18px; margin-bottom: 10px;">
-    Enjoy with your Bunna (coffee) ☕ and happy coding! 🚀
-  </p>
-</div>
-na (coffee) ☕ and happy coding! 🚀
-  </p>
-
-</div>
